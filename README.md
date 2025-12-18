@@ -48,7 +48,7 @@ time,name
 > Windows
 
 ```bash
-Baixe: https://ffmpeg.org/download.html
+Baixe: https://www.gyan.dev/ffmpeg/builds/
 Extraia (ex: C:\ffmpeg)
 Adicione C:\ffmpeg\bin ao PATH
 ```
